@@ -38,8 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 Being a beginner at front end development, I already knew many concepts that helped me throughout this challenge. One thing that I learnt particularly from this project is to adopt the mobile first approach as that makes our work a whole lot easier.
