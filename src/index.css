@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  background-color: #D5E1EF;
+  font-family: 'Outfit', sans-serif;
+}
+
+.card-img-top {
+  /* width: 18rem; */
+  width: 90%;
+  max-width: 18rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+html, body, #root, #root > div {
+  height: 100%
+}
+
+.card-title {
+  font-weight: 700;
+}
+
+.card-text {
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: medium;
+}
